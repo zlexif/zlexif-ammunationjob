@@ -1,4 +1,6 @@
 ## Zlexif's Ammunations Job. / MADE BY RANJIT AND EDITED AND EVERYTHING BY ZLEXIF
+
+[Preview](https://youtu.be/pDA9PXIOYAs?si=r4UjTNo1R9XRUgfm)
 # join my **[Discord] https://discord.gg/XAV4AfgQaZ** | <-- FOR ANY SUPPORT. AS RANJIT IS NOT RESPONSIBLE FOR SUPPORT ON THIS.
 ranjits discord https://discord.gg/867F5AvMCN Check it out. He's got plenty of good scripts!
 # Required
