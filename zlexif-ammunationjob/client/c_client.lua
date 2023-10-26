@@ -211,5 +211,5 @@ RegisterNetEvent('zlexif-ammunation:client:CraftAmmo', function(data)
             Notify(Language.Notify.NoMaterials, 'error', 6000)
             return
         end
-    end, Config.Food[data.type].materials)
+    end, Config.Ammo[data.type].materials)
 end)
