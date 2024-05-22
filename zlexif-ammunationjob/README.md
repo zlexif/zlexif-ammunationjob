@@ -14,7 +14,7 @@ ranjits discord https://discord.gg/867F5AvMCN Check it out. He's got plenty of g
 
 # **qb-core/shared/items.lua**
 ```
-
+`
 ## THIS DEPENDS ON QB-WEAPONS DEFAULT.
 ```
 
