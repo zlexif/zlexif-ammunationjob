@@ -1,10 +1,13 @@
 fx_version 'cerulean'
-author '# Ahmad / ranjit'
+author '# Ahmad'
 Description 'An Ammunation job script made by # Ahmad.'
 game 'gta5'
+lua54 'yes'
 
 shared_scripts { 
-    "configs/**.lua",
+    "config/**.lua",
+    '@ox_lib/init.lua',
+
 }
 
 server_script { 
@@ -23,7 +26,5 @@ client_script {
 
 dependencies {
     'qb-core',
-    'PolyZone',
-    'qb-target',
-    'qb-menu'
+    'PolyZone'
 }

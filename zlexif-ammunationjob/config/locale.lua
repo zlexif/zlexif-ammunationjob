@@ -9,13 +9,17 @@ Language = {
     },
     Progressbars = {
         Make = "Crafting... ",
-        Ticket = "Taking a ticket... "
     },
     Menu = {
-        Ammo = "[🔧] Ammo",
+        CraftingCatalog = "[🛠️] Crafting Catalog",
         Weapons = "[🔫] Guns",
+        Ammo = "[🔧] Ammo",
         Close = "[❌] Close",
         Required = "Required:",
+        WeaponsDescription = "Select to craft weapons.",
+        AmmoDescription = "Select to craft ammo.",
+        Return = "[↩️] Return",
+        Exit = "[🚪] Exit",
     },
     Notify = {
         Make = "You made: ",
@@ -27,6 +31,5 @@ Language = {
         PlayerOffline = "Player unavailable.",
         NoPermission = "You don't have permissions.",
         InvoiceReceived = "New invoice received.",
-        AlreadySit = "Somebody is already sitting there."
     }
 }
